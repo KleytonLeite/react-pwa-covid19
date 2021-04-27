@@ -1,5 +1,5 @@
 {
-  "name": "kleyton-pwacovid19",
+  "name": "covid10-dio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,8 +14,8 @@
     "styled-components": "^5.1.0"
   },
   "scripts": {
-    "start": "react-app start",
-    "build": "react-app build",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
     "eslint": "eslint --ext .jsx,.js src"
   },
   "eslintConfig": {

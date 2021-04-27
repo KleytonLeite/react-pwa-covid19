@@ -26,10 +26,7 @@ const globalStyle = createGlobalStyle`
     background-size: cover;
     background-position: center center;
   }
-  
-  .mr-2 {
-    margin-right: 16px;
-  }
+
   .mb-2 {
     margin-bottom: 16px;
   }
